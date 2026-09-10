@@ -1,4 +1,4 @@
-# Journal — mardi 25 août 2026 (rédigé par : Prénom NOM)
+# Journal — mardi 08 septembre 2026 (rédigé par : Patrice BOMBOMA)
 
 > **Modèle à dupliquer chaque jour ouvré** sous le nom `AAAA-MM-JJ.md`.
 > Exigence ED-06 : cinq rubriques, auteur nommé, au moins une photo,
